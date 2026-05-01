@@ -1,4 +1,4 @@
-# Ahmed Yasser
+# Ahmed Yasser Shalaby
 
 Business Informatics student focused on data, automation, and business-tech systems.
 
@@ -22,7 +22,7 @@ Tech: Python, pandas, NumPy, Typer, Optuna, Plotly, pytest
 
 Mobile productivity app for habit tracking, focus sessions, points, streaks, analytics, cloud sync, and AI-assisted weekly reviews.
 
-Tech: React Native, Expo, TypeScript, Supabase, Zustand, OpenAI API
+Tech: React Native, Expo, TypeScript, Supabase, Zustand, AI APIs
 
 ### [Hasala Personal Finance App](https://github.com/AdamAmr05/Hasala)
 
