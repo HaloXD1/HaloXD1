@@ -6,6 +6,12 @@ I build projects around Python automation, SQL/data workflows, APIs, dashboards,
 
 ## Featured Projects
 
+### [Retail Data Pipeline and KPI Dashboard](https://github.com/HaloXD1/data-pipeline-kpi-dashboard)
+
+BI/Data Engineering project that generates messy retail exports, cleans and validates data with Python, loads SQLite tables, and exports Tableau-ready KPI datasets.
+
+Tech: Python, pandas, SQL, SQLite, Tableau
+
 ### [Outlook Calendar Automation](https://github.com/HaloXD1/outlook-calendar-automation)
 
 AI-assisted Python workflow that scans Outlook emails, extracts exams and deadlines, deduplicates events with SQLite, and creates structured Google Calendar entries.
@@ -32,7 +38,7 @@ Tech: React, TypeScript, Express, MongoDB, Gemini API
 
 ## Skills
 
-Python, SQL, TypeScript, JavaScript, React, Node.js, MongoDB, SQLite, Supabase, Power BI, Tableau, APIs, Git, AWS basics
+Python, SQL, TypeScript, JavaScript, React, Node.js, MongoDB, SQLite, Supabase, pandas, Power BI, Tableau, APIs, Git, AWS basics
 
 ## Current Focus
 
