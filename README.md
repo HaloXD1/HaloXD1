@@ -8,12 +8,12 @@ Portfolio proof: [haloxd1.github.io/ahmed-yasser-portfolio](https://haloxd1.gith
 
 ## Best Proof
 
-| Project | What it proves | Stack |
-|---|---|---|
-| [Retail Data Pipeline and KPI Dashboard](https://github.com/HaloXD1/data-pipeline-kpi-dashboard) | ETL, data contracts, incremental loading, rejected-row reporting, KPI exports, health checks | Python, SQL, SQLite, Streamlit, Docker, CI |
-| [SaaS Analytics Engineering Pipeline](https://github.com/HaloXD1/saas-analytics-engineering-pipeline) | Analytics marts, DuckDB/Parquet layers, MRR/churn/adoption metrics, data quality checks | Python, DuckDB, Parquet, SQL, Streamlit |
-| [Cloud Security Posture Auditor](https://github.com/HaloXD1/cloud-security-posture-auditor) | Security automation, policy-as-code, severity scoring, remediation reporting | Python, YAML, pandas, Streamlit, CI |
-| [Outlook Calendar Automation](https://github.com/HaloXD1/outlook-calendar-automation) | API automation, deduplication, dry-run safety, audit logs | Python, SQLite, Outlook, Google Calendar API |
+| Project | Demo | What it proves | Stack |
+|---|---|---|---|
+| [Retail Data Pipeline and KPI Dashboard](https://github.com/HaloXD1/data-pipeline-kpi-dashboard) | [Live demo](https://ahmed-retail-kpi-dashboard.streamlit.app/) | ETL, data contracts, incremental loading, rejected-row reporting, KPI exports, health checks | Python, SQL, SQLite, Streamlit, Docker, CI |
+| [SaaS Analytics Engineering Pipeline](https://github.com/HaloXD1/saas-analytics-engineering-pipeline) | [Live demo](https://ahmed-saas-analytics-pipeline.streamlit.app/) | Analytics marts, DuckDB/Parquet layers, MRR/churn/adoption metrics, data quality checks | Python, DuckDB, Parquet, SQL, Streamlit |
+| [Cloud Security Posture Auditor](https://github.com/HaloXD1/cloud-security-posture-auditor) | [Live demo](https://ahmed-cloud-security-auditor.streamlit.app/) | Security automation, policy-as-code, severity scoring, remediation reporting | Python, YAML, pandas, Streamlit, CI |
+| [Outlook Calendar Automation](https://github.com/HaloXD1/outlook-calendar-automation) | Repo only | API automation, deduplication, dry-run safety, audit logs | Python, SQLite, Outlook, Google Calendar API |
 
 ## What I Can Do As An Intern
 
