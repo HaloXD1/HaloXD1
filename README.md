@@ -4,6 +4,8 @@ Business Informatics student targeting **Summer 2026 Data Engineering, Analytics
 
 I build small but complete systems with Python, SQL, data validation, dashboards, tests, Docker, CI, and clear documentation.
 
+Portfolio proof: [haloxd1.github.io/ahmed-yasser-portfolio](https://haloxd1.github.io/ahmed-yasser-portfolio/)
+
 ## Best Proof
 
 | Project | What it proves | Stack |
@@ -42,4 +44,5 @@ Summer 2026 internships in:
 
 - [LinkedIn](https://www.linkedin.com/in/ahmed-yasser-shalaby/)
 - [GitHub](https://github.com/HaloXD1)
+- [Portfolio](https://haloxd1.github.io/ahmed-yasser-portfolio/)
 - Email: Ahmedy999.ay@gmail.com
