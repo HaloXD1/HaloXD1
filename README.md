@@ -14,7 +14,7 @@ Portfolio proof: [ahmedyassershalaby.github.io/ahmed-yasser-portfolio](https://a
 | [OpsTwin Control Tower](https://github.com/AhmedYasserShalaby/ops-twin-control-tower) | [Live demo](https://ahmedyassershalaby.github.io/ops-twin-control-tower/) | Business systems simulation, scenario decisions, Monte Carlo worker, network risk, browser SQL, postmortems | React, TypeScript, Vite, DuckDB-Wasm, D3, Playwright |
 | [SaaS Analytics Engineering Pipeline](https://github.com/AhmedYasserShalaby/saas-analytics-engineering-pipeline) | [Live demo](https://ahmed-saas-analytics-pipeline.streamlit.app/) | Analytics marts, DuckDB/Parquet layers, MRR/churn/adoption metrics, data quality checks | Python, DuckDB, Parquet, SQL, Streamlit |
 | [Cloud Security Posture Auditor](https://github.com/AhmedYasserShalaby/cloud-security-posture-auditor) | [Live demo](https://ahmed-cloud-security-auditor.streamlit.app/) | Security automation, policy-as-code, severity scoring, remediation reporting | Python, YAML, pandas, Streamlit, CI |
-| [Outlook Calendar Automation](https://github.com/AhmedYasserShalaby/outlook-calendar-automation) | Repo only | API automation, deduplication, dry-run safety, audit logs | Python, SQLite, Outlook, Google Calendar API |
+| [EGX Research Toolkit](https://github.com/AhmedYasserShalaby/egx-research) | Repo only | Financial research workflow, reusable analysis scripts, testable helpers | Python, pandas, financial data, tests |
 
 ## What I Can Do As An Intern
 
