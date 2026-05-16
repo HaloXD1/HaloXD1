@@ -1,6 +1,8 @@
 # Ahmed Yasser Shalaby
 
-Business Informatics student building across data, software, automation, and security. I turn messy business problems into working technical systems, focusing on structure, logic, and testability.
+**Data Engineering | Business Intelligence | Analytics**
+
+I turn messy business problems into working technical systems, focusing on structure, logic, and testability.
 
 Portfolio proof: [ahmedyassershalaby.github.io/ahmed-yasser-portfolio](https://ahmedyassershalaby.github.io/ahmed-yasser-portfolio/)
 
