@@ -10,6 +10,7 @@ Portfolio proof: [ahmedyassershalaby.github.io/ahmed-yasser-portfolio](https://a
 
 | Project | Demo | What it proves | Stack |
 |---|---|---|---|
+| [E-Commerce Cloud Data Platform](https://github.com/AhmedYasserShalaby/ecommerce-cloud-data-platform) | Repo only | Batch + streaming lakehouse, Airflow orchestration, DuckDB marts, quality observability, AWS-ready Terraform | Python, SQL, DuckDB, Parquet, Airflow, Docker |
 | [Retail Data Pipeline](https://github.com/AhmedYasserShalaby/data-pipeline-kpi-dashboard) | Repo only | ETL, data contracts, incremental loading, rejected-row reporting, health checks | Python, SQL, SQLite, Streamlit |
 | [Protocol App](https://github.com/AhmedYasserShalaby/protocol-productivity-app) | Repo only | Product execution, UI/UX, habit systems, mobile-first workflows | React Native, UI/UX |
 | [EGX Research Toolkit](https://github.com/AhmedYasserShalaby/egx-research-toolkit) | Repo only | Data normalization, financial research runs, holdout validation, signal inspection | Python, pandas |
@@ -20,9 +21,9 @@ Portfolio proof: [ahmedyassershalaby.github.io/ahmed-yasser-portfolio](https://a
 ## Technical Profile
 
 - **Software Engineering:** I design modular, testable codebases using Python and TypeScript, prioritizing maintainability and clean architecture over one-off scripts.
-- **Data & Analytics Engineering:** I build reliable ETL/ELT pipelines and dbt-style SQL models that turn messy raw data into trustworthy, explainable KPIs.
+- **Data & Analytics Engineering:** I build reliable ETL/ELT pipelines, lakehouse layers, orchestration, and dbt-style SQL models that turn messy raw data into trustworthy, explainable KPIs.
 - **Engineering Workflow:** Every project includes unit testing (pytest/Vitest), CI/CD pipelines (GitHub Actions), and containerization (Docker).
-- **Stack:** Python, SQL, TypeScript, React, DuckDB, Parquet, Docker, AWS basics.
+- **Stack:** Python, SQL, TypeScript, React, DuckDB, Parquet, Airflow, Docker, Terraform, AWS basics.
 
 ## Contact
 
