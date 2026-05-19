@@ -1,6 +1,6 @@
 # Ahmed Yasser Shalaby
 
-**Data Engineering | Business Intelligence | Analytics**
+**Data Engineering | Analytics Engineering | Cloud Data Platforms**
 
 I turn messy business problems into working technical systems, focusing on structure, logic, and testability.
 
@@ -10,13 +10,11 @@ Portfolio proof: [ahmedyassershalaby.github.io/ahmed-yasser-portfolio](https://a
 
 | Project | Demo | What it proves | Stack |
 |---|---|---|---|
-| [E-Commerce Cloud Data Platform](https://github.com/AhmedYasserShalaby/ecommerce-cloud-data-platform) | Repo only | Batch + streaming lakehouse, Airflow orchestration, DuckDB marts, quality observability, AWS-ready Terraform | Python, SQL, DuckDB, Parquet, Airflow, Docker |
-| [Retail Data Pipeline](https://github.com/AhmedYasserShalaby/data-pipeline-kpi-dashboard) | Repo only | ETL, data contracts, incremental loading, rejected-row reporting, health checks | Python, SQL, SQLite, Streamlit |
-| [Protocol App](https://github.com/AhmedYasserShalaby/protocol-productivity-app) | Repo only | Product execution, UI/UX, habit systems, mobile-first workflows | React Native, UI/UX |
-| [EGX Research Toolkit](https://github.com/AhmedYasserShalaby/egx-research-toolkit) | Repo only | Data normalization, financial research runs, holdout validation, signal inspection | Python, pandas |
-| [SaaS Analytics Pipeline](https://github.com/AhmedYasserShalaby/saas-analytics-engineering-pipeline) | Repo only | Analytics marts, DuckDB/Parquet layers, MRR/churn/adoption metrics, data quality checks | Python, DuckDB, Parquet, SQL |
-| [OpsTwin Control Tower](https://github.com/AhmedYasserShalaby/ops-twin-control-tower) | [Live demo](https://ahmedyassershalaby.github.io/ops-twin-control-tower/) | Business systems simulation, scenario decisions, Monte Carlo worker, network risk, browser SQL | React, TypeScript, D3, DuckDB-Wasm |
+| [E-Commerce Cloud Data Platform](https://github.com/AhmedYasserShalaby/ecommerce-cloud-data-platform) | [Technical report](https://ahmedyassershalaby.github.io/ecommerce-cloud-data-platform/) | Batch + streaming lakehouse, Airflow orchestration, DuckDB marts, quality observability, AWS-ready Terraform | Python, SQL, DuckDB, Parquet, Airflow, Docker |
 | [Cloud Security Auditor](https://github.com/AhmedYasserShalaby/cloud-security-posture-auditor) | Repo only | Security automation, policy-as-code, severity scoring, remediation reporting | Python, YAML, pandas, Streamlit |
+| [OpsTwin Control Tower](https://github.com/AhmedYasserShalaby/ops-twin-control-tower) | [Live demo](https://ahmedyassershalaby.github.io/ops-twin-control-tower/) | Business systems simulation, scenario decisions, Monte Carlo worker, network risk, browser SQL | React, TypeScript, D3, DuckDB-Wasm |
+| [SaaS Analytics Pipeline](https://github.com/AhmedYasserShalaby/saas-analytics-engineering-pipeline) | Repo only | Analytics marts, DuckDB/Parquet layers, MRR/churn/adoption metrics, data quality checks | Python, DuckDB, Parquet, SQL |
+| [Retail Data Pipeline](https://github.com/AhmedYasserShalaby/data-pipeline-kpi-dashboard) | Repo only | ETL, data contracts, incremental loading, rejected-row reporting, health checks | Python, SQL, SQLite, Streamlit |
 
 ## Technical Profile
 
